@@ -468,6 +468,26 @@ position: relative;
          
          }
 
+         #left-col {
+          
+          width: 40%;
+          height:15%;
+          
+        }
+      
+        
+        #right-col {
+          
+          width: 50%;
+          height: 15%;
+          
+        }
+      
+        .mypic{
+          width: 50%;
+          height: 15%;
+        }
+
          .insideHeader{
           width: 640px;
           height: 150px;
